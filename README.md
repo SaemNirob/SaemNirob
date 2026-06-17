@@ -14,7 +14,7 @@
 I hold a **BSc and MSc in Statistics from Jagannath University**, and I'm now building toward a **Master's degree in Data Science**. My statistics background gives me a strong theoretical foundation in probability, inference, and modeling — and I'm extending that into the computational and machine learning side of data science.
 
 - 🎓 BSc & MSc in Statistics — Jagannath University
-- 🔬 Interested in **statistical inference, supervised machine learning, predictive modeling, and survey-based data collection**
+- 🔬 Interested in **statistical inference, survival analysis, supervised machine learning, predictive modeling, and survey-based data collection**
 - 📊 Actively building skills in **Python, R, SQL, and ML frameworks** to bridge statistics with data science
 - 🎯 Working toward research and project experience that supports graduate study in Data Science
 - 🤝 Open to collaborating on **data analysis, statistical modeling, or applied ML projects**
@@ -39,6 +39,7 @@ I hold a **BSc and MSc in Statistics from Jagannath University**, and I'm now bu
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Supervised%20Machine%20Learning-2E7D32?style=flat-square" />
   <img src="https://img.shields.io/badge/XGBoost-2C3E50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Survival%20Analysis-6A0DAD?style=flat-square" />
 </p>
 
 **Databases**
